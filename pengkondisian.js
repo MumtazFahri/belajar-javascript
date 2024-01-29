@@ -8,3 +8,9 @@ if(x % 2 == 0) {
 }else {
     alert("Angka Woy");
 }
+
+if (confirm("Anda kurang rezeki?")) {
+    location = "https://www.youtube.com/watch?v=RnEEjI-nUQg"
+} else {
+    alert ("Keren lu bang");
+}
