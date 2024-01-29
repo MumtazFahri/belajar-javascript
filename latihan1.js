@@ -1,0 +1,1 @@
+alert("Hallo gua orang dalam");
