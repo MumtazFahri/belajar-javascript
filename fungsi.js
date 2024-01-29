@@ -6,8 +6,14 @@ var toFloat = parseFloat(y);
 var toString = toNum.toString();
 console.log(x + toNum);
 
-function jumlah(a,b){
+function jumlah(a,b) {
     return a + b;
+}
+/// Fungsi ekspresi
+var kurang = function (a, b) {
+    return a - b;
 }
 
 alert(jumlah(5, 20));
+alert(kurang(20, 5));
+/// Array
